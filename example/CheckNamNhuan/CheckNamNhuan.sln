@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11415.280 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckNamNhuan", "CheckNamNhuan.csproj", "{F9388252-5837-D8A6-B9F4-1A5ACD0F9EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9388252-5837-D8A6-B9F4-1A5ACD0F9EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9388252-5837-D8A6-B9F4-1A5ACD0F9EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9388252-5837-D8A6-B9F4-1A5ACD0F9EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9388252-5837-D8A6-B9F4-1A5ACD0F9EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53081D3D-C625-40F8-9D86-463A7EF5D3AE}
+	EndGlobalSection
+EndGlobal
