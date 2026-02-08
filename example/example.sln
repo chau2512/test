@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arsenal", "arsenal.csproj", "{AD0E22A4-3CDD-9EE2-4F5B-1D3FAAAE18FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkdayinmonth", "checkdayinmonth.csproj", "{43EE852E-7AB9-48C3-5F25-4B0E9B0B42CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0E22A4-3CDD-9EE2-4F5B-1D3FAAAE18FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0E22A4-3CDD-9EE2-4F5B-1D3FAAAE18FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0E22A4-3CDD-9EE2-4F5B-1D3FAAAE18FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0E22A4-3CDD-9EE2-4F5B-1D3FAAAE18FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43EE852E-7AB9-48C3-5F25-4B0E9B0B42CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EE852E-7AB9-48C3-5F25-4B0E9B0B42CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EE852E-7AB9-48C3-5F25-4B0E9B0B42CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EE852E-7AB9-48C3-5F25-4B0E9B0B42CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63253439-7D9B-4E23-B19D-B11BE2E5E67E}
+	EndGlobalSection
+EndGlobal
